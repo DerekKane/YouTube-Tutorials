@@ -1,0 +1,60 @@
+CustomerID,Address,Latitude,Longitude
+1,"590 S Julian St Naperville, IL 60540",41.766347,-88.135061
+2,"841 Woodlawn Ave Naperville, IL 60540",41.762999,-88.13274
+3,"1008 Honest Pleasure Dr Naperville, IL 60540",41.758014,-88.131298
+4,"141 Tamarack Ave Naperville, IL 60540",41.751562,-88.138506
+5,"413 Buckeye Dr Naperville, IL 60540",41.749706,-88.148596
+6,"551 Grimes Ave Naperville, IL 60565",41.74599,-88.156589
+7,"773-777 Torrington Dr Naperville, IL 60565",41.741688,-88.158161
+8,"446 Quail Dr Naperville, IL 60565",41.737875,-88.143486
+9,"1903 Killdeer Dr Naperville, IL 60565",41.733376,-88.132477
+10,"Ring Rd Naperville, IL 60565",41.726434,-88.142568
+11,"2275 Massachusetts Ave Naperville, IL 60565",41.724086,-88.153707
+12,"28W136 Countryview Dr Naperville, IL 60564",41.722521,-88.170742
+13,"2211-2215 Comstock Ln Naperville, IL 60564",41.724086,-88.188169
+14,"2300-2398 Beauport Dr Naperville, IL 60564",41.722423,-88.190528
+15,"2624 Whitchurch Ln Naperville, IL 60564",41.724477,-88.197997
+16,"2743 Stockton Rd Naperville, IL 60564",41.728975,-88.201142
+17,"2153 Fulham Dr Naperville, IL 60564",41.72702,-88.203633
+18,"2811-2845 Rutland Rd Naperville, IL 60564",41.723793,-88.204156
+19,"161-351 Stearman Dr Naperville, IL 60564",41.736897,-88.201928
+20,"2652 Blakely Ln Naperville, IL 60540",41.749803,-88.200225
+21,"2600-2698 Lexington Ln Naperville, IL 60540",41.752638,-88.197604
+22,"1067 Selma Ln Naperville, IL 60540",41.751724,-88.189655
+23,"836 Sanctuary Ln Naperville, IL 60540",41.754853,-88.182972
+24,"1282 Tennyson Ln Naperville, IL 60540",41.75065,-88.17157
+25,"619 Oakhurst Dr Naperville, IL 60540",41.76062,-88.177992
+26,"7S340 Arbor Dr Naperville, IL 60540",41.762869,-88.164888
+27,"826 Tulip Ln Naperville, IL 60540",41.757785,-88.152832
+28,"Katherine Borchardt, PSYD, N Washington St Naperville, IL 60563",41.77528,-88.147198
+29,"229 S Sleight St Naperville, IL 60540",41.771665,-88.140776
+30,"812 Arbor Ave Wheaton, IL 60189",41.85634,-88.118369
+31,"1005 S Wheaton Ave Wheaton, IL 60189",41.854681,-88.109851
+32,"102 Fairway Ln Wheaton, IL 60189",41.852241,-88.10579
+33,"N Hance, 1625 Wadsworth Rd Wheaton, IL 60189",41.845018,-88.106707
+34,"160 E Thompson Dr Wheaton, IL 60189",41.843261,-88.104871
+35,"Dr Dan Career Coach, 201 Brighton Dr Wheaton, IL 60189",41.8375,-88.107623
+36,"1932 Somerset Ln Wheaton, IL 60189",41.834767,-88.119286
+37,"651 Red Maple Ln Wheaton, IL 60189",41.832326,-88.127148
+38,"26W060 Blackhawk Dr Wheaton, IL 60189",41.83711,-88.132521
+39,"2S052 Big Horn Dr Wheaton, IL 60189",41.842675,-88.130425
+40,"2046 Creekside Dr Wheaton, IL 60189",41.847556,-88.135666
+41,"1877 Spring Green Dr Wheaton, IL 60189",41.85068,-88.132128
+42,"1527 Center Ave Wheaton, IL 60189",41.852827,-88.128983
+43,"894-902 Sunset Rd Wheaton, IL 60189",41.856438,-88.125445
+44,"525 S Gables Blvd Wheaton, IL 60187",41.860049,-88.1223
+45,"700-856 Crest St Wheaton, IL 60189",41.857901,-88.119679
+46,"3179 Village Green Dr Aurora, IL 60504",41.748401,-88.241414
+47,"3242-3246 Gresham Ln E Aurora, IL 60504",41.748401,-88.235911
+48,"400 S Frontenac St Aurora, IL 60504",41.749965,-88.230275
+49,"3748-3798 Princeton Ave Aurora, IL 60504",41.752311,-88.223592
+50,"760 Teasel Ln Aurora, IL 60504",41.742828,-88.22071
+51,"1054-1156 Shoreline Dr Aurora, IL 60504",41.738916,-88.223725
+52,"3455 Fox Hill Rd Aurora, IL 60504",41.737743,-88.236174
+53,"2905 Fox Hill Rd Aurora, IL 60504",41.73921,-88.244952
+54,"2700-2762 Compton Rd Aurora, IL 60504",41.743903,-88.244952
+55,"5519 Lenox Rd Lisle, IL 60532",41.784465,-88.071586
+56,"635 S Rd Lisle, IL 60532",41.780947,-88.063462
+57,"5340 Clover Dr Lisle, IL 60532",41.788275,-88.062545
+58,"22W331 Elmwood Dr Glen Ellyn, IL 60137",41.8375,-88.061233
+59,"22W321 Ahlstrand Rd Glen Ellyn, IL 60137",41.832813,-88.060971
